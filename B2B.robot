@@ -1,7 +1,6 @@
 *** Settings ***
 Library           RequestsLibrary
 Library           Collections
-Library           ExcelLibrary
 
 *** Variables ***
 ${B2B_URL}    localhost:9090
